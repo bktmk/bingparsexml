@@ -1,7 +1,7 @@
 import re
 import sys
 
-outputfile = open(r'c:\users\mattk\downloads\bz2\out.txt',"w+", encoding="utf-8")
+outputfile = open(r'out.txt',"w+", encoding="utf-8")
 
 
 farray = """uploadts-1550147989-sec_products_06.xml
